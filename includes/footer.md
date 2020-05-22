@@ -7,7 +7,7 @@
   });
 </script> -->
 
-<p style="text-align: center">&copy; 2019 Austin Coding Academy</p>
+<p style="text-align: center">&copy; 2020 Early Code</p>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.min.js"></script>
 <script>
   fetch('/_book/gitbook/style.css').catch(function(error) {

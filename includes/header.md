@@ -9,9 +9,9 @@
 </div> -->
 
 <div style="display: flex; align-items: center">
-  <img alt="logo" id="logo-img" src="https://www.gravatar.com/avatar/570427f66aea5cddc47c1ef63f973572" />
+  <img alt="logo" id="logo-img" src="../images/logos/EarlyCode_Logo.png" height=100px/>
   <h1 style="margin: 0 10px;">
-    <span id="logo-city">Austin</span>
-    Coding Academy
+    <span id="logo-city">Early Code</span>
+    
   </h1>
 </div>
