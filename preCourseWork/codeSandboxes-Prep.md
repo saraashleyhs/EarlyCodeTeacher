@@ -5,9 +5,11 @@
 
 ## Read It
 <!-- Give them our writing of the subject then link to a few articles: Medium, Wikipedia, CSS-Tricks, W3S, MozillaDev, etc... that help give more perspective on the subject  -->
-Code sandboxes are really useful tool to share ideas, play with possibilities and explore new ideas without the pressures of building your file structure, setting up your machine or depending on the console. In class we'll use [CodePen](http://codepen.io/) to share snippets of code, give you a place to practice and find new things. Get in the habit of browsing and playing with CodePens as you work through the textbook. Its where "the rubber meets the road", so to speak. CodePens are where you actually get to apply the concepts you just read or watched about PLUS, you will frequently use them in your new career.
+Code sandboxes are really useful tool to share ideas, play with possibilities and explore new ideas without the pressures of building your file structure, setting up your machine or depending on the console. In class we'll use [CodeSandbox](http://codesandbox.io/) to share snippets of code, give you a place to practice and find new things. 
 
-There are plenty of sandboxes to play in. [Repl.it](https://repl.it/login?goto=%2Frepls), [JSBin](https://jsbin.com/?html,js,output), [CodeSandBox](https://codesandbox.io/), [JSFiddle](https://jsfiddle.net/) and [more](https://www.sitepoint.com/7-code-playgrounds/)! Get dirty and explore for yourself!
+We will also use [CodePen](https://codepen.io/) for some practice. Get in the habit of browsing and playing with CodePens as you work through the textbook. Its where "the rubber meets the road", so to speak. CodePens are where you actually get to apply the concepts you just read or watched about PLUS, you will.
+
+There are plenty of other sandboxes to play in. [Repl.it](https://repl.it/login?goto=%2Frepls), [JSBin](https://jsbin.com/?html,js,output), [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/) and [more](https://www.sitepoint.com/7-code-playgrounds/)! Get curious and explore for yourself!
 
 ## See It
 <!-- Can be a video on youTube as long as it doesn't go to another code school. Eventually all video content should come from ACA. -->
@@ -18,8 +20,10 @@ There are plenty of sandboxes to play in. [Repl.it](https://repl.it/login?goto=%
 
 ## Practice It
 <!-- Fore each course add in the codeSandbox specific to that language, library, or framework -->
-1. Go [sign-up](https://codepen.io/) for an account now!
+1. Go [sign-up](http://codesandbox.io/) for a CodeSandbox account now!
 
-### Go to [Pre-Work Step 3 >](03Prep.md)
+1. Go [sign-up](https://codepen.io/) for a CodePen account now!
+
+### Go to [Pre-Work Step 3 >](splat-Prep.md)
 
 {% include "../includes/footer.md" %}
