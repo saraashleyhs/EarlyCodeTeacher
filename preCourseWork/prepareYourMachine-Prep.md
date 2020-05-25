@@ -2,7 +2,6 @@
 
 # Step 1 - Prepare Your Machine
 
-## Read It - Prepare Your Machine
 
 1. Be sure to download [Chrome](https://www.google.com/chrome/) 
 
@@ -12,7 +11,7 @@
 
     * An IDE is an Integrated Development Environment. This is the same as a text editor but does so many more tasks like auto-complete, bug watching, value assistance & integrating the text into a runtime environment like a web browser.
 
-    **The IDE that we will be using is called CodeSandbox.**
+    **The IDE that we will be using is called _CodeSandbox_.**
 
 1. Create a [Github](https://github.com/) account.
     * Go to the website [www.github.com](https://github.com/)
@@ -20,7 +19,7 @@
 
     Use the image below as a reference:
 
-    ![alt text](../images/Github.png)
+    ![Github](../images/Github.png)
 
 
 

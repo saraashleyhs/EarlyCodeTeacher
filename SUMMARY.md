@@ -6,21 +6,19 @@ TIP: Use this page to navigate your files more easily. -->
 
 * [Home](home.md)
 
-* Pre-Course Work
+
     * [Step 1 Preparing Your Machine](preCourseWork/prepareYourMachine-Prep.md)
     * [Step 2 Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
-    * [Step 3 Flipped Classroom](preCourseWork/flippedClassroom-Prep.md)
-    * [Step 4 S.P.L.A.T.](preCourseWork/splat-Prep.md)
-    * [Step 5 Create Your Blog](preCourseWork/startYourBlog-Prep.md)
-    * [D1 Pre-HW - Subject01 + Subject02](01Week/01DayPrep.md)
+    * [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
+    * [Step 4 S.A.T.](preCourseWork/splat-Prep.md)
+    * [Step 5 Pre-Course Checklist](preCourseWork/preCourseChecklist.md)
     <!-- * [Step 7 Subject](preClassWork/06Prep.md) -->
-    <!-- * [Step 8 Pre-Course Checklist](preCourseWork/preCourseChecklist.md) -->
 
-* Week 1
+<!-- * Week 1
     * [D1 Pre-HW - Subject01 + Subject02](01Week/01DayPrep.md)
     * [D1 Class - ProjectTitle01](01Week/01DayClass.md)
     * [D2 Pre-HW - Subject03 + Subject04](01Week/02DayPrep.md)
-    * [D2 Class - ProjectTitle02](01Week/02DayClass.md)
+    * [D2 Class - ProjectTitle02](01Week/02DayClass.md) -->
 
 <!-- * Week 2
     * [D1 Pre-HW - Subject05 + Subject06](02Week/01DayPrep.md)
