@@ -34,6 +34,6 @@ This is the most important part. If you know the answer to a question another st
 
 Don’t underestimate the power of sharing what you know; it always comes back around!
 
-## Go to [Getting to know CodeSandbox >](codeSandBoxes-Prep.md)
+## Go to [Getting to know CodeSandbox >](preCourseChecklist.md)
 
 {% include "../includes/footer.md" %}

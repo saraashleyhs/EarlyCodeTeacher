@@ -12,17 +12,15 @@ Before coming into class make sure you have all of the things you need to make y
 
 1. [GitHub](https://github.com) account
 1. [CodeSandbox](https://codesandbox.io) Account
-1. [Repl.it](https://repl.it/repls) Account
-1. [DotNet Fiddle](https://dotnetfiddle.net/) account
 1. Journal or Writing pad (*for notes and drawing*)
 1. Pencils or Pens
 1. Completed all pre-Course Steps:
 1. [Step 1 Preparing Your Machine](prepareYourMachinePrep.md)
-1. [Step 3 Code Sandboxes](codeSandBoxesPrep.md)
-1. [Step 5 S.P.L.A.T.](SplatPrep.md)
-1. [Step 6 Create Your Blog](startYourBlogPrep.md)
+1. [Step 2 Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
+1. [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
+1. [Step 4 S.A.T.](preCourseWork/splat-Prep.md)
 
 
-## Congratulations!! You're all set for class! 
+## Congratulations!! You're all set to start learning! 
 
 {% include "../includes/footer.md" %}
