@@ -14,7 +14,8 @@ Before coming into class make sure you have all of the things you need to make y
 1. [CodeSandbox](https://codesandbox.io) Account
 1. Journal or Writing pad (*for notes and drawing*)
 1. Pencils or Pens
-1. Completed all pre-Course Steps:
+
+Completed all PreCourse Steps:
 1. [Step 1 Preparing Your Machine](prepareYourMachinePrep.md)
 1. [Step 2 Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
 1. [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
