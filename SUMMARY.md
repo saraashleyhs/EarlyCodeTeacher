@@ -6,7 +6,7 @@ TIP: Use this page to navigate your files more easily. -->
 
 * [Home](home.md)
 
-
+* Pre-Course 
     * [Step 1 Preparing Your Machine](preCourseWork/prepareYourMachine-Prep.md)
     * [Step 2 Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
     * [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
@@ -14,11 +14,11 @@ TIP: Use this page to navigate your files more easily. -->
     * [Step 5 Pre-Course Checklist](preCourseWork/preCourseChecklist.md)
     * [Resources](preCourseWork/Resources.md)
 
-<!-- * Week 1
-    * [D1 Pre-HW - Subject01 + Subject02](01Week/01DayPrep.md)
-    * [D1 Class - ProjectTitle01](01Week/01DayClass.md)
+* Unit 1
+    * [Lesson 1 - Computer/Internet Basics](./Unit01/Computer.md)
+    * [Lesson 2 - Intro to HMTL](./Unit01/01DayClass.md)
     * [D2 Pre-HW - Subject03 + Subject04](01Week/02DayPrep.md)
-    * [D2 Class - ProjectTitle02](01Week/02DayClass.md) -->
+    * [D2 Class - ProjectTitle02](01Week/02DayClass.md)
 
 <!-- * Week 2
     * [D1 Pre-HW - Subject05 + Subject06](02Week/01DayPrep.md)
