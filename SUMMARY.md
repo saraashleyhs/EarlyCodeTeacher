@@ -12,7 +12,7 @@ TIP: Use this page to navigate your files more easily. -->
     * [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
     * [Step 4 S.A.T.](preCourseWork/splat-Prep.md)
     * [Step 5 Pre-Course Checklist](preCourseWork/preCourseChecklist.md)
-    <!-- * [Step 7 Subject](preClassWork/06Prep.md) -->
+    * [Resources](preCourseWork/Resources.md)
 
 <!-- * Week 1
     * [D1 Pre-HW - Subject01 + Subject02](01Week/01DayPrep.md)
