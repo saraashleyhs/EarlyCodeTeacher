@@ -1,32 +1,6 @@
 {% include "../includes/header.md" %}
 
-<!-- @TODO ATTENTION: DEVELOPER, You'll see this large chunk of comments as you develop, use them to guide you're work. A few short-cuts that will make your time move faster. Each section looks the same:
-
-1) "Overview", "Read It", "See It", "Practice It", "Know Your Docs" if you use find/replace you can change Subject1 to the first concept and Subject2 to the next concept. You're not limited to only 2 subject so if needed, add a 3rd section.  
-
-2) Videos in "See It" Sections should be embedded and linked to the title use find/replace to change out urls for LINKtoVIDEO1 and LINKtoVIDEO2 
-
-3) Same for "Practice It" Sections, find/replace URLtoEXAMPLE1 or URLtoEXAMPLE2 
-
-4) If you're linking to a blog or article please make the hyperlink descriptive not just say "for more information click [here](url)". Instead it should be, "if you want to know more about [Angular's Architecture read this article](url)."
-
-5) In-line files and code should be marked with back-ticks `var code = "sample"`, `src/myFile.js`
-
-6) To show large chunks of code put it inside code fences, triple back-tics with the language specified on the top line.
-  csharp, typescript, css, html, javascript, ....
-
-  ```javascript
-    // use code fencing to write out code
-  ```
-
-7) If you need to create a repo for the student to clone:
-  * Create the repo in the AustinCodingAcademy gitHub account and,
-  * use the naming " NG421_W7D1_QuizAPI "
-
-Happy Code Teaching!
--->
-
-# Lesson 1 - Computer and Internet Basics
+# Computer and Internet Basics
 
 *****
 
@@ -43,12 +17,15 @@ Since we are going to be working with computers in this course, it’s useful to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mCq8-xTH7jA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- @TODO ^^^ Replace Example Text ^^^ -->
 
+
 *****
 ## What is the Internet?
 
 It seems like the internet (& WIFI) have been around for a while, but do you really know how it works? Watch this video to learn about how the internet actually started as a secret government project and how we connect our devices to a global network almost instantly.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dxcc6ycZ73M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 The internet is about sending and receiving information.  Watch this video to find out the possibilities of how that information is sent.
 
@@ -103,6 +80,6 @@ Take a look at these terms. If you don't know or can't describe any of them, tak
 
 ******
 
-### Let's go to [Lesson 2 >](01DayClass.md)
+### Let's go to [Lesson 2 >](HTML-Intro.md)
 
 {% include "../includes/footer.md" %}

@@ -16,9 +16,11 @@ TIP: Use this page to navigate your files more easily. -->
 
 * Unit 1
     * [Lesson 1 - Computer/Internet Basics](./Unit01/Computer.md)
-    * [Lesson 2 - Intro to HMTL](./Unit01/01DayClass.md)
-    * [D2 Pre-HW - Subject03 + Subject04](01Week/02DayPrep.md)
+    * [Lesson 2 - Intro to HMTL](./Unit01/HTML-Intro.md)
+    * [Lesson 3 - Intro to CSS](Unit01/CSS-Intro.md)
     * [D2 Class - ProjectTitle02](01Week/02DayClass.md)
+
+* [Project 1 - Mascot Makeover](checkPoints/MascotMakeover.md)
 
 <!-- * Week 2
     * [D1 Pre-HW - Subject05 + Subject06](02Week/01DayPrep.md)
