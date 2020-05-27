@@ -116,6 +116,7 @@ We are now going to practice using different tags to create some structure to an
 
 1. What does HTML stand for?
 1. What is the difference between an HTML tag and HTML element?
+1. Does the content in the ```<head></head>```element appear on the webpage?
 1. How do you comment code out so that the browser doesn't display it?
 1. Does it matter the way we code our elements into the HTML file? (What would happen if you left off the closing tag?)
 

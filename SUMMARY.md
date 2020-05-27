@@ -68,7 +68,7 @@ TIP: Use this page to navigate your files more easily. -->
     * [D2 Pre-HW - Subject31 + Subject32](08Week/02DayPrep.md)
     * [D2 Class - ProjectTitle16](08Week/02DayClass.md) -->
 
-<!-- * [Checkpoint 3:](checkPoints/03checkPoint.md) -->
+* [Final Website:](checkPoints/03checkPoint.md)
 
 <!-- * Post-Class Work
     * [Subject 1](postClassWork/01Post.md)
