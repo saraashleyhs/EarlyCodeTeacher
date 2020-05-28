@@ -18,11 +18,11 @@ TIP: Use this page to navigate your files more easily. -->
     * [Lesson 1 - Computer/Internet Basics](./Unit01/Computer.md)
     * [Lesson 2 - Intro to HMTL](./Unit01/HTML-Intro.md)
     * [Lesson 3 - Intro to CSS](Unit01/CSS-Intro.md)
-    * [D2 Class - ProjectTitle02](01Week/02DayClass.md)
+    * [Lesson 4 - Wireframing](Unit01/Wireframing.md)
 
-* [Project 1 - Mascot Makeover](checkPoints/MascotMakeover.md)
+<!--* [Project 1 - Mascot Makeover](checkPoints/MascotMakeover.md)-->
 
-<!-- * Week 2
+ * Unit 2
     * [D1 Pre-HW - Subject05 + Subject06](02Week/01DayPrep.md)
     * [D1 Class - ProjectTitle03](02Week/01DayClass.md)
     * [D2 Pre-HW - Subject07 + Subject08](02Week/02DayPrep.md)
@@ -68,7 +68,7 @@ TIP: Use this page to navigate your files more easily. -->
     * [D2 Pre-HW - Subject31 + Subject32](08Week/02DayPrep.md)
     * [D2 Class - ProjectTitle16](08Week/02DayClass.md) -->
 
-* [Final Website:](checkPoints/03checkPoint.md)
+* [Final Website:](checkPoints/FinalWebsite.md)
 
 <!-- * Post-Class Work
     * [Subject 1](postClassWork/01Post.md)

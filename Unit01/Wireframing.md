@@ -1,172 +1,165 @@
 {% include "../includes/header.md" %}
 
-# Intro to CSS
+# Wireframing
 
 *****
 
-**Objective:** By the end of this lesson, the student will be able to apply styles using CSS selctors targeting HTML elements.
+**Objective:** By the end of this lesson, the student will use a wireframe to structure their final project webpage.  
 
-**Assignment:** Final Project Wireframe and Mockup
+**Assignments:** 
+Practice Wireframe 
+Final Project Wireframe
 
 *****
 
-## Review and Recap
+## Why is planning ahead important?
 
-Last time we covered how to use HTML elements to add structure to our webpage. You saw how ... makes ... happen.... you get the point. Give the student context for what they're about to learn now.
-<!-- @TODO ^^^ Replace Example Text ^^^ -->
+Before you start typing your first line of code, it will save you tons of time to have a set plan for what you want your webpage to look like.  The planning stage can alleviate stress because you have steps in your plan to follow and can manage your time.
+Planning ahead can also improve the final product.  Taking time to plan ahead means that you do not have to make last minutes decisions on big parts of a project.  This can also save you from getting bogged down trying to figure out one piece of the plan.  
 
-## Subject1 Overview
+In what other ways can planning help you complete a project/assignment?
 
-<!-- @TODO ATTENTION: DEVELOPER, In the overview, students should see the why of what they're about to learn about. This is the place for you to use metaphors or familiar everyday objects to relate the abstract computer concept to. Here is where we will tell the students the "WHY" behind what they're about to read and learn about. Then we'll give them an overview of the material, sort of a "Big Picture" of the new concept so they can go in with a context of the very NEW material.-->
+*****
 
-Every new concept should be laid out, we need to do ... therefore we will need to use a tool called ... which is pretty easy to use. Let's see how it works.
-<!-- @TODO ^^^ Replace Example Text ^^^ -->
+### Before we code
 
-### Read It - Subject1
+We will need some additional resources for today's lesson.
 
-<!-- @TODO ATTENTION: DEVELOPER, Give them something to read in your words, as if you were talking to them about the topic. Within the reading you can link to a few articles: Medium, Wikipedia, Microsoft, CSS-Tricks, W3S, MozillaDev, etc... anything that can help give more perspective on the subject.  -->
+* Pen/Pencil
+  
+* Paper
 
-Let's say you need to .... but you're not able to get ...., luckily for us older developers have come across this problem to and created a solution. With this solution we can ... and then ... . After you implement this solution you're app can ... . Make sure to tell a story. Our students don't understand programming yet, that's why they're here. They need to be told a story like a human being.
-<!-- @TODO ^^^ Replace Example Text ^^^ -->
+## What is a Wireframe?
 
-******
+Just like a blueprint for the construction of a house or building, **wireframes** are created to communicate the structure and functionality of a website or app. When a design, or **mockup** is given to you from your design team it will be your job to translate that mockup into code that is read by browsers of all sorts and shipped across the world. *Big stuff, right?*
 
-### See It - [Subject1](LINKtoVIDEO1)
+### Constructing a Wireframe
 
-<!-- @TODO ATTENTION: DEVELOPER, 
-1) This should be a clear, high-quality, non-lame video that helps visually explain the concept at-hand. 
-2) It can come from youTube as long as it doesn't advertise or come from another code school. 
-3) Preferably, all video content should come from ACA. 
-4) THIS PLACEHOLDER VIDEO BELOW BETTER BE REPLACED!!!!!
--->
+Before beginning to wireframe, a designer would decide on the objective of their webpage. What idea are they trying to communicate? What do they want their user to do with it?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQu8TTBmGhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+> "Website wireframes are 90% thinking/planning and just 10% drawing" - *Design and Function*
 
-******
+The wireframe is a visual guide that gives us a framework, or plan, on which to build our website. We use it to lay our site's elements to best support our specific purpose or goal.
 
-### Practice It - [Subject1](URLtoEXAMPLE1)
+Some things a wireframe is *NOT*:
 
-<!-- @TODO ATTENTION: DEVELOPER, 
-1) Insert an iframe of a DotNet Fiddle, CodePen, or Repl.it with  pre-built code block(s) for the student to begin tinkering with quickly. 
-2) The Code Sandbox should owned by ACA; 
-3)if you don't have the credentials for the ACA account ASK!!. 
-4)In the sandbox above you will do x, y, z. Give the student  instructions to get them in to the code more quickly. Remember, they're very young and you will need to guide them a little more to get them going. -->
+* A drawing of what your exact finished product will look like such as pictures, actual colors and fonts.
+* A place to include filler text (use real text in the wireframe for clarity)
+* An actual design (wireframes show how the site works, not how it will look)
+* A place to do a rush job (you should label and describe every element of each page to avoid any misunderstandings)
 
-1. Go to [URLtoEXAMPLE](URLtoEXAMPLE1)
-1. Find ___
-1. Then ...
-1. Next ,,,
-1. Now :::
+*****
 
-******
+### See It
+
+The wireframe below shows a basic blog page.  We identify the sections, and translate that into the HTML elements that would represent each piece.
+<img width=75%  src="../images/WireframeEX.png"> 
+
+Translating this into code becomes easier because we just follow the wireframe.
+
+```html
+<body>
+  <header><h1>My Awesome Blog!</h1></header>
+  <nav>Home<br>About<br>Events<br>Contact</nav>
+  <main>
+    <section>
+      <h1>Posts</h1>
+      <article>My First Post!</article>
+      <article>My Second Post!</article>
+      <article>My Third Post!</article>
+    </section>
+    <section>
+      <h1>Calendar</h1>
+      <table>...</table>
+    </section>
+  </main>
+  <aside>You Win!!!</aside>
+  <footer>© 2016 Austin Coding Academy</footer>
+</body>
+```
+
+##### Explanations of the elements in the code:
+
+* The [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) element represents a group of introductory or navigational aids. It may contain some heading elements but also other elements like a logo, wrapped section's header, a search form, and so on.
+
+* A [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav) element (HTML Navigation Element) represents a section of a page that links to other pages or to parts within the page: a section with navigation links. This is sometimes contained in the header.
+
+* The [`<main>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main) element represents the main content of the `<body>` of a document or application. The main content area consists of content that is directly related to, or expands upon the central topic of a document or the central functionality of an application.
+
+* A [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) element represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each `<section>` should be identified, typically by including a heading (`<h1>`-`<h6>` element) as a child of the `<section>` element.
+
+* The [`<article>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable.
+
+* The [`<aside>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside) element represents a section of the page with content indirectly related to the page's main content, which could be considered separate from that content. These sections are often represented as sidebars or inserts.
+
+* The [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer) element represents a footer. A footer typically contains information about the author of the section, copyright data or links to related documents.
+
+*****
 
 ### Know Your Docs - Subject1
-<!-- @TODO ATTENTION: DEVELOPER, Student's often forget there is documentation to use. Give them the link so they know where it is. -->
 
-Be sure to reference the official documentation on [Subject1](URLtoDocs1). Documentation makes software useful. All *good* software comes with documentation so new developers can pick it up, learn quickly, apply, and even change it if needed.
+Use this link as a reference to help you with your assignment. [Wireframing 101](https://rbbideas.com/insights/wireframes-101-beginners-guide/). 
 
-******
-******
+*****
 
-## Subject2
+### Practice It - Assignment
 
-<!-- @TODO ATTENTION: DEVELOPER, In the overview, students should see the why of what they're about to learn about. This is the place for you to use metaphors or familiar everyday objects to relate the abstract computer concept to. Here is where we will tell the students the "WHY" behind what they're about to read and learn about. Then we'll give them an overview of the material, sort of a "Big Picture" of the new concept so they can go in with a context of the very NEW material.-->
+1. Find a website that appeals to you.
+1. The company that owns this website now wants you to redesign their page.
+1. Create a wireframe for the redesign.  
+*Remember that wireframe should not have final colors/images
+    * Label each section with its purpose.
+    * Assign an HTML element to each piece in the wireframe. 
 
-Every new concept should be laid out, we need to do ... therefore we will need to use a tool called ... which is pretty easy to use. Let's see how it works.
-<!-- @TODO ^^^ Replace Example Text ^^^ -->
+*****
+*****
 
-### Read It - Subject2
+## Final Website Project
 
-<!-- @TODO ATTENTION: DEVELOPER, Give them something to read in your words, as if you were talking to them about the topic. Within the reading you can link to a few articles: Medium, Wikipedia, Microsoft, CSS-Tricks, W3S, MozillaDev, etc... anything that can help give more perspective on the subject.  -->
+By the end of this course, you will have your own website that represents something important to you and/or a problem you want to solve.  Before you starting coding you need to develop a plan.
 
-Let's say you need to .... but you're not able to get ...., luckily for us older developers have come across this problem to and created a solution. With this solution we can ... and then ... . After you implement this solution you're app can ... . Make sure to tell a story. Our students don't understand programming yet, that's why they're here. They need to be told a story like a human being.
-<!-- @TODO ^^^ Replace Example Text ^^^ -->
+### Read It - Template Wireframe
 
-******
+We have provided a wireframe to guide you in building your webpage.  Remember the wireframe will help you build the structure of your webpage.  Study the wireframe and look at the structure that your website will have.
 
-### See It - [Subject2](LINKtoVIDEO2)
-
-<!-- @TODO ATTENTION: DEVELOPER,
-1) This should be a clear, high-quality, non-lame video that helps visually explain the concept at-hand. 
-2) It can come from youTube as long as it doesn't advertise or come from another code school. 
-3) Preferably, all video content should come from ACA. 
-4) THIS PLACEHOLDER VIDEO BELOW BETTER BE REPLACED!!!!!
--->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQu8TTBmGhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+> To start with, we will stick to this template! If you want to challenge yourself, you can customize it later using some of our more advanced topics.  Stick with the structure we have given you for now.
 
 ******
 
-### Practice It - [Subject2](URLtoEXAMPLE2)
+### See It - [Figma Wireframe](https://www.figma.com/file/3sYpjzrB7zRV9dmHP7sW6r/my-site?node-id=0%3A1)
 
-<!-- @TODO ATTENTION: DEVELOPER,
-1) Insert an iframe of a DotNet Fiddle, CodePen, or Repl.it with  pre-built code block(s) for the student to begin tinkering with quickly. 
-2) The Code Sandbox should owned by ACA; 
-3)if you don't have the credentials for the ACA account ASK!!. 
-4)In the sandbox above you will do x, y, z. Give the student  instructions to get them in to the code more quickly. Remember, they're very young and you will need to guide them a little more to get them going. -->
-
-1. Go to [URLtoEXAMPLE](URLtoEXAMPLE2)
-1. Find ___
-1. Then ...
-1. Next ,,,
-1. Now :::
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3sYpjzrB7zRV9dmHP7sW6r%2Fmy-site%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ******
 
-### Know Your Docs - Subject2
-<!-- @TODO ATTENTION: DEVELOPER, Student's often forget there is documentation to use. Give them the link so they know where it is. -->
+### Practice It - [Final Website Project](https://codesandbox.io/s/l2c-course-student-template-w8ojh?fontsize=14&hidenavigation=1&theme=dark)
 
-Be sure to reference the official documentation on [Subject2](URLtoDocs2). Documentation makes software useful. All *good* software comes with documentation so new developers can pick it up, learn quickly, apply, and even change it if needed.
+Now that you have taken a look at the wireframe.  Let's start developing your website ideas.
 
-******
+1. Go to the Template [CodeSandbox](https://codesandbox.io/s/l2c-course-student-template-w8ojh?fontsize=14&hidenavigation=1&theme=dark)
+1. Find the 'Brainstorm' file
+1. Then answer the questions in this file.  These questions will help you determine the objective of your website.  
+1. Next, use the wireframe to build the HTML elements.
+This goes in the 'index.html' file.
+
+*****
 
 ## Questions for Class Discussion
-<!-- @TODO ATTENTION: DEVELOPER, Write down a few questions you'd like to ask the student by the time they've finished this pre-homework. We'll copy/paste them to the following class day. -->
-Now that you've read, watched and practiced these concepts take your understanding a little deeper. Let's make sure we internalize these concepts by answer the questions below. We'll use these as a starting point for class discussion tomorrow. Don't rely on the Instructor or students to answer these question, **DO IT FOR YOURSELF NOW**. The time is now! Go *google*-up these on your own and have other questions to ask. We do not lecture in class, we discuss, collaborate and learn together.
 
-1. ...
-1. ...
-1. ...
+1. What is a wireframe supposed to represent?
+1. Why is wireframing important?
+1. What should you include in a wireframe?
+1. What should not be included into a wireframe?
+1. How is the head element different from the header element?
+
+*****
 
 ### Terminology to Know
-<!-- @TODO ATTENTION: DEVELOPER, In this section, we list terms students should now and be able to discuss at this point. Be sure to list a few for the students to jot down and work with. -->
-Take a look at these terms. If you don't know or can't describe any of them, take some time to teach yourself. You're a developer, which means you're also learning to develop yourself.
 
-1. ...
-1. ...
-1. ...
+* Wireframe
+* Mockup
+* elements
 
-## Daily Puzzle Practice
-
-In class we'll work on solving problems while communicating to a group. To get better at this, (*and you will*), you'll have to practice on you're own everyday. YES, the first few times you work on this you're going to get stuck, frustrated, and want to give up. That's okay. Just take a breathe and take some time away from it. Ten minutes later, come back to it. Then look at the answer. Understand how it was solved and try to repeat it for yourself. In this way you can learn from **REALLY** smart people. Slowly, but surely, you will pick up the patterns.
-
-We want you to succeed! To make sure our students are doing the right practice, **everyday**, for themselves we're going to give you a problem to work on here. But if you're wanting more to work on try these sites:
-
-* [HackerRank](https://www.hackerrank.com)
-* [Geeks4Geeks](https://www.geeksforgeeks.org)
-* [LeetCode](https://leetcode.com)
-* [Pramp](https://www.pramp.com)
-
-In fact, you'll want to get on [HackerRank](https://www.hackerrank.com) and [LeetCode](https://leetcode.com) sooner rather than later because they actually track your progress and your profile is searchable by hiring managers and recruiters!
-
-Remember to follow the rules to Whiteboarding Success:
-
-1. Restate, rewrite, and clarify the question
-1. Write the expect return given an input
-1. Make a code plan and speak aloud with your interviewers/team/self
-1. Test and come up with edge case scenarios
-1. Revise if you can for efficiency
-
-<!-- @TODO ATTENTION: DEVELOPER, every pre-homework needs a good challenge for students to whiteboard on their own. Make sure to give them a prompt, example input and expected output -->
-> Prompt Goes Here
-
-  ```javascript
-    // use code fencing to write out code
-  ```
-
-******
-******
-
-### Let's go to the [in Class Lesson >](02DayClass.md)
+*****
 
 {% include "../includes/footer.md" %}

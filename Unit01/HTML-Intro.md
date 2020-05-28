@@ -54,6 +54,7 @@ A basic HTML template looks like the following:
 ## HTML Structure
 
   ### Tags
+
   ```html
   <h1> </h1>
   The <h1> is an opening tag for a header1 element.
@@ -64,7 +65,7 @@ A basic HTML template looks like the following:
   All of the content displayed on the webpage is between the two 
   <body> </body> tags.
   ```
- 
+  <img width=400px src="../images/tags.jpg">
 
   ### Elements
   When we place content between the two tags, we have created an HTML **element**.
