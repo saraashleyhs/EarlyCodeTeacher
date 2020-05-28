@@ -30,6 +30,6 @@ There are plenty of other sandboxes to play in. [Repl.it](https://repl.it/login?
     
 1. Go [sign-up](https://codepen.io/) for a CodePen account now!
 
-### Go to [Pre-Work Step 3 >](GettingCodeSandbox.md)
+### Go to [Getting to know CodeSandbox.io >](GettingCodeSandbox.md)
 
 {% include "../includes/footer.md" %}

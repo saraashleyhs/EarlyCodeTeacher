@@ -23,16 +23,16 @@ TIP: Use this page to navigate your files more easily. -->
 <!--* [Project 1 - Mascot Makeover](checkPoints/MascotMakeover.md)-->
 
  * Unit 2
-    * [D1 Pre-HW - Subject05 + Subject06](02Week/01DayPrep.md)
-    * [D1 Class - ProjectTitle03](02Week/01DayClass.md)
-    * [D2 Pre-HW - Subject07 + Subject08](02Week/02DayPrep.md)
-    * [D2 Class - ProjectTitle04](02Week/02DayClass.md) -->
+    * [D1 Pre-HW - Subject05 + Subject06](Unit02/01DayPrep.md)
+    * [D1 Class - ProjectTitle03](Unit02/01DayClass.md)
+    * [D2 Pre-HW - Subject07 + Subject08](Unit02/02DayPrep.md)
+    * [D2 Class - ProjectTitle04](Unit02/02DayClass.md) -->
 
-<!-- * Week 3
-    * [D1 Pre-HW - Subject09 + Subject10](03Week/01DayPrep.md)
-    * [D1 Class - ProjectTitle05](03Week/01DayClass.md)
-    * [D2 Pre-HW - Subject11 + Subject12](03Week/02DayPrep.md)
-    * [D2 Class - ProjectTitle06](03Week/02DayClass.md) -->
+ * Unit 3
+    * [D1 Pre-HW - Subject09 + Subject10](Unit03/01DayPrep.md)
+    * [D1 Class - ProjectTitle05](Unit03/01DayClass.md)
+    * [D2 Pre-HW - Subject11 + Subject12](Unit03/02DayPrep.md)
+    * [D2 Class - ProjectTitle06](Unit03/02DayClass.md) -->
 
 <!-- * [Checkpoint 1:](checkPoints/01checkPoint.md) -->
 

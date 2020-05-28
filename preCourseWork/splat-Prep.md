@@ -20,11 +20,11 @@ If you have a question, you should immediately ask yourself: “Is it in my text
 
     2. ASK your question to your classmates and/or teacher,
 
-your learning community is going to be a great resource to pull from
+your learning community is going to be a great resource to pull from and contribute to...
 
     3. TEACH the solution.
 
-This is the most important part. If you know the answer to a question another student asks, go and answer it! Also, if you learn something new, pass it on to others. 
+This is the most important part! If you know the answer to a question another student asks, go and answer it! Also, if you learn something new, pass it on to others. 
 
 <!-- ### See It -->
 <!-- Can be a video on youTube as long as it doesn't go to another code school. Eventually all video content should come from ACA. -->
@@ -34,6 +34,6 @@ This is the most important part. If you know the answer to a question another st
 
 Don’t underestimate the power of sharing what you know; it always comes back around!
 
-## Go to [Getting to know CodeSandbox >](preCourseChecklist.md)
+## Go to [PreCourse Checklist >](preCourseChecklist.md)
 
 {% include "../includes/footer.md" %}

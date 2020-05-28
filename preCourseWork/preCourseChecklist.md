@@ -16,10 +16,10 @@ Before coming into class make sure you have all of the things you need to make y
 1. Pencils or Pens
 
 Completed all PreCourse Steps:
-1. [Step 1 Preparing Your Machine](prepareYourMachinePrep.md)
-1. [Step 2 Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
-1. [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
-1. [Step 4 S.A.T.](preCourseWork/splat-Prep.md)
+1. [Preparing Your Machine](prepareYourMachinePrep.md)
+1. [Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
+1. [Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
+1. [S.A.T.](preCourseWork/splat-Prep.md)
 
 
 ## Congratulations!! You're all set to start learning! 

@@ -51,10 +51,24 @@ Forking makes a copy that is now yours and you can edit and make changes but it 
 
 Fork the embedded project and explore the menus with your teacher.
 
-<iframe src="https://codesandbox.io/s/l2c-course-student-template-w8ojh?fontsize=14" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="L2C-Course-Student-Template" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+---
+
+##### Rules for reading code you didn't write:
+
+* Read through the code carefully
+* Identify pieces/elements that you already know
+* Change <u>**SMALL**</u> pieces of code to investigate and analyze what is happening.
+
+<iframe
+     src="https://codesandbox.io/embed/html-burger-o9qwj?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="HTML Burger"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts allow-autoplay"
+   ></iframe>
 
 *****
 
-### Go to [S.A.T> Method >](splat-Prep.md)
+### Go to [S.A.T. Method >](splat-Prep.md)
 
 {% include "../includes/footer.md" %}

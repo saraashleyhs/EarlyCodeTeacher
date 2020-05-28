@@ -137,6 +137,7 @@ We have provided a wireframe to guide you in building your webpage.  Remember th
 Now that you have taken a look at the wireframe.  Let's start developing your website ideas.
 
 1. Go to the Template [CodeSandbox](https://codesandbox.io/s/l2c-course-student-template-w8ojh?fontsize=14&hidenavigation=1&theme=dark)
+1. Fork a copy and rename the Project "YOURNAME_FinalProject"
 1. Find the 'Brainstorm' file
 1. Then answer the questions in this file.  These questions will help you determine the objective of your website.  
 1. Next, use the wireframe to build the HTML elements.

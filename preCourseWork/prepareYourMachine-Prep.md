@@ -24,6 +24,6 @@
 
 
 
-### Go to [Pre-Work Step 2 >](codeSandboxes-Prep.md)
+### Go to [Code Sandboxes >](codeSandboxes-Prep.md)
 
 {% include "../includes/footer.md" %}

@@ -105,6 +105,7 @@ You will need match the HTML elements with their CSS declaration.
 
 ### TL - DR
 Watch this video for a mini-crash course in CSS.
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3T4BsrBISnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
