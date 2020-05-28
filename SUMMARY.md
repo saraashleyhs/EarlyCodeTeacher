@@ -5,6 +5,7 @@
 TIP: Use this page to navigate your files more easily. -->
 
 * [Home](home.md)
+    * [Resources](preCourseWork/Resources.md)
 
 * Pre-Course 
     * [Step 1 Preparing Your Machine](preCourseWork/prepareYourMachine-Prep.md)
@@ -12,41 +13,43 @@ TIP: Use this page to navigate your files more easily. -->
     * [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
     * [Step 4 S.A.T.](preCourseWork/splat-Prep.md)
     * [Step 5 Pre-Course Checklist](preCourseWork/preCourseChecklist.md)
-    * [Resources](preCourseWork/Resources.md)
+
 
 * Unit 1
+    * [Develop Series 1 Mindfulness](DevUnit/Mindfulness)
     * [Lesson 1 - Computer/Internet Basics](./Unit01/Computer.md)
     * [Lesson 2 - Intro to HMTL](./Unit01/HTML-Intro.md)
     * [Lesson 3 - Intro to CSS](Unit01/CSS-Intro.md)
     * [Lesson 4 - Wireframing](Unit01/Wireframing.md)
 
-<!--* [Project 1 - Mascot Makeover](checkPoints/MascotMakeover.md)-->
-
  * Unit 2
-    * [D1 Pre-HW - Subject05 + Subject06](Unit02/01DayPrep.md)
-    * [D1 Class - ProjectTitle03](Unit02/01DayClass.md)
-    * [D2 Pre-HW - Subject07 + Subject08](Unit02/02DayPrep.md)
-    * [D2 Class - ProjectTitle04](Unit02/02DayClass.md) -->
+    * [Develop Series 2 Self Motivation](DevUnit/SelfMotivation)
+    * [Lesson 5 - CSS Advanced Practice](Unit02/01DayPrep.md)
+    * [Lesson 6 - Box Model](Unit02/01DayClass.md)
+    * [Lesson 7 - Pics, Links, and Vids](Unit02/02DayPrep.md)
+    * [Lesson 8 - Selectors](Unit02/02DayClass.md)
 
  * Unit 3
-    * [D1 Pre-HW - Subject09 + Subject10](Unit03/01DayPrep.md)
-    * [D1 Class - ProjectTitle05](Unit03/01DayClass.md)
-    * [D2 Pre-HW - Subject11 + Subject12](Unit03/02DayPrep.md)
-    * [D2 Class - ProjectTitle06](Unit03/02DayClass.md) -->
+    * [Develop Series 3 Brain Building](DevUnit/BrainBuilding)
+    * [Lesson 9 - HTML Tables](Unit03/01DayPrep.md)
+    * [Lesson 10 - CSS Grid](Unit03/01DayClass.md)
+    * [Lesson 11 - Flexbox](Unit03/02DayPrep.md)
 
-<!-- * [Checkpoint 1:](checkPoints/01checkPoint.md) -->
+* [Checkpoint 1:Final Project Content](checkPoints/ProjectContent.md)
 
-<!-- * Week 4
-    * [D1 Pre-HW - Subject13 + Subject14](04Week/01DayPrep.md)
-    * [D1 Class - ProjectTitle07](04Week/01DayClass.md)
-    * [D2 Pre-HW - Subject15 + Subject16](04Week/02DayPrep.md)
-    * [D2 Class - ProjectTitle08](04Week/02DayClass.md) -->
+* Unit 4
+    * [Develop Series 4 Feelings & Collaborators](DevUnit/Feels)
+    * [D1 Pre-HW - Subject13 + Subject14](Unit04/01DayPrep.md)
+    * [D1 Class - ProjectTitle07](Unit04/01DayClass.md)
+    * [D2 Pre-HW - Subject15 + Subject16](Unit04/02DayPrep.md)
+    * [D2 Class - ProjectTitle08](Unit04/02DayClass.md)
 
-<!-- * Week 5
-    * [D1 Pre-HW - Subject17 + Subject18](05Week/01DayPrep.md)
-    * [D1 Class - ProjectTitle09](05Week/01DayClass.md)
-    * [D2 Pre-HW - Subject19 + Subject20](05Week/02DayPrep.md)
-    * [D2 Class - ProjectTitle10](05Week/02DayClass.md) -->
+* Unit 5
+    * [Develop Series 5 Goals](DevUnit/Goals)
+    * [D1 Pre-HW - Subject17 + Subject18](Unit05/01DayPrep.md)
+    * [D1 Class - ProjectTitle09](Unit05/01DayClass.md)
+    * [D2 Pre-HW - Subject19 + Subject20](Unit05/02DayPrep.md)
+    * [D2 Class - ProjectTitle10](Unit05/02DayClass.md) -->
 
 <!-- * [Checkpoint 2:](checkPoints/02checkPoint.md) -->
 
@@ -62,15 +65,15 @@ TIP: Use this page to navigate your files more easily. -->
     * [D2 Pre-HW - Subject27 + Subject28](07Week/02DayPrep.md)
     * [D2 Class - ProjectTitle14](07Week/02DayClass.md) -->
 
-<!-- * Week 8
+
+* [Final Website](checkPoints/FinalWebsite.md)
+
+<!-- TODO * PreRequisite Unit
     * [D1 Pre-HW - Subject29 + Subject30](08Week/01DayPrep.md)
     * [D1 Class - ProjectTitle15](08Week/01DayClass.md)
     * [D2 Pre-HW - Subject31 + Subject32](08Week/02DayPrep.md)
     * [D2 Class - ProjectTitle16](08Week/02DayClass.md) -->
-
-* [Final Website:](checkPoints/FinalWebsite.md)
-
-<!-- * Post-Class Work
+<!--TODO * Post-Class Work
     * [Subject 1](postClassWork/01Post.md)
     * [Subject 2](postClassWork/02Post.md)
     * [Subject 3](postClassWork/03Post.md)

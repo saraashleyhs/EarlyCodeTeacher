@@ -48,8 +48,10 @@ There are different ways to apply CSS to the HTML.  We are going to focus on the
 Link your CSS file by copying and pasting the following code
 into the <head></head> of your HTML:
 
-<link rel="stylesheet" href="style.css">
-
+<head>
+ <title>Awesome website</title>
+ <link rel="stylesheet" href="style.css">
+</head>
 
 "style.css" is the name of the file that contains your CSS styles.
 The file name could be different, but it has to have the .css on the end.
@@ -101,13 +103,25 @@ You will need match the HTML elements with their CSS declaration.
 
 [![Edit CSS Practice](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/css-practice-k79ks?fontsize=14&hidenavigation=*theme=dark)
 
+  ```css
+  Hint: A CSS comment in the code is indicated by the following syntax.
+
+ /*This is a CSS comment */
+
+
+  ```
+
 ******
 
 ### TL - DR
-Watch this video for a mini-crash course in CSS.
----
+Watch these videos for a mini-crash course in CSS.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3T4BsrBISnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tZhmjgLQgXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Know Your Docs 
 

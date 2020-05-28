@@ -33,15 +33,23 @@ We will need some additional resources for today's lesson.
 
 Just like a blueprint for the construction of a house or building, **wireframes** are created to communicate the structure and functionality of a website or app. When a design, or **mockup** is given to you from your design team it will be your job to translate that mockup into code that is read by browsers of all sorts and shipped across the world. *Big stuff, right?*
 
+A **wireframe** is, "an image, or set of images, which displays the functional elements of a website or page, typically used for planning a site's structure and functionality". In other words, a wireframe is the blueprint of a website. You'll be using the wireframe throughout this course. It's the plan for your codebase!!
+
+  * Take a look at the wireframe below: 
+  
+![landingPage-Wireframe](../images/webPage2.png)
+
+  * What do you notice? What do you wonder?
+
 ### Constructing a Wireframe
 
-Before beginning to wireframe, a designer would decide on the objective of their webpage. What idea are they trying to communicate? What do they want their user to do with it?
+Before beginning to wireframe, a designer would decide on the **objective** of their webpage. What idea are they trying to communicate? What do they want their user to do with it?
 
 > "Website wireframes are 90% thinking/planning and just 10% drawing" - *Design and Function*
 
-The wireframe is a visual guide that gives us a framework, or plan, on which to build our website. We use it to lay our site's elements to best support our specific purpose or goal.
+The wireframe is a visual guide that gives us a framework, or plan, on which to build our website. We use it to lay out a site's elements to best support our specific purpose or goal.
 
-Some things a wireframe is *NOT*:
+Some things a wireframe is <u>*NOT*</u>:
 
 * A drawing of what your exact finished product will look like such as pictures, actual colors and fonts.
 * A place to include filler text (use real text in the wireframe for clarity)
@@ -53,7 +61,8 @@ Some things a wireframe is *NOT*:
 ### See It
 
 The wireframe below shows a basic blog page.  We identify the sections, and translate that into the HTML elements that would represent each piece.
-<img width=75%  src="../images/WireframeEX.png"> 
+
+<img width=75% src="../images/WireframeEX.png"> 
 
 Translating this into code becomes easier because we just follow the wireframe.
 
@@ -81,16 +90,22 @@ Translating this into code becomes easier because we just follow the wireframe.
 ##### Explanations of the elements in the code:
 
 * The [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) element represents a group of introductory or navigational aids. It may contain some heading elements but also other elements like a logo, wrapped section's header, a search form, and so on.
+<br>
 
 * A [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav) element (HTML Navigation Element) represents a section of a page that links to other pages or to parts within the page: a section with navigation links. This is sometimes contained in the header.
+<br>
 
 * The [`<main>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main) element represents the main content of the `<body>` of a document or application. The main content area consists of content that is directly related to, or expands upon the central topic of a document or the central functionality of an application.
+<br>
 
 * A [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) element represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each `<section>` should be identified, typically by including a heading (`<h1>`-`<h6>` element) as a child of the `<section>` element.
+<br>
 
 * The [`<article>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable.
+<br>
 
 * The [`<aside>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside) element represents a section of the page with content indirectly related to the page's main content, which could be considered separate from that content. These sections are often represented as sidebars or inserts.
+<br>
 
 * The [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer) element represents a footer. A footer typically contains information about the author of the section, copyright data or links to related documents.
 

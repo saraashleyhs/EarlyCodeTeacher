@@ -21,9 +21,14 @@
 ### Other Resources
 
 1. [W3Schools](https://www.w3schools.com/)
+1. [W3Schools HTML](https://www.w3schools.com/html/default.asp)
+1. [W3Schools CSS](https://www.w3schools.com/css/default.asp)
+1. [Color Picker](https://www.google.com/search?q=color+picker)  
+
 1. [Google Fonts](https://fonts.google.com/)
     * How to use Google Fonts:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3JR6mEWEEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 
 *****
 
