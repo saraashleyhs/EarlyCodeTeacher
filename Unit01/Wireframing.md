@@ -6,8 +6,8 @@
 
 **Objective:** By the end of this lesson, the student will use a wireframe to structure their final project webpage.  
 
-**Assignments:** 
-Practice Wireframe 
+**Assignments:**
+Practice Wireframe
 Final Project Wireframe
 
 *****
