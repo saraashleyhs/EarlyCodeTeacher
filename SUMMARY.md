@@ -27,29 +27,30 @@ TIP: Use this page to navigate your files more easily. -->
     * [Lesson 5 - CSS Advanced Practice](Unit02/CSSAdvanced.md)
     * [Lesson 6 - Selectors](Unit02/Selectors.md)
     * [Lesson 7 - Pics, Links, and Vids](Unit02/MediaTags.md)
-    * [Lesson 8 - Box Model](Unit02/BoxModel.md)
+    * [Lesson 8 - Pseudo Classes](Unit02/PseudoClass.md)
+
 
  * Unit 3
     * [Develop Series 3 - Brain Building](DevUnit/BrainBuilding)
-    * [Lesson 9 - HTML Tables](Unit03/HTMLTables.md)
-    * [Lesson 10 - CSS Grid](Unit03/CSSGrid.md)
-    * [Lesson 11 - Flexbox](Unit03/Flexbox.md)
+    * [Lesson 9 - Box Model](Unit03/BoxModel.md)
+    * [Lesson 10 - HTML Tables](Unit03/HTMLTables.md)
+    * [Lesson 11 - CSS Grid](Unit03/CSSGrid.md)
+    * [Lesson 12 - Flexbox](Unit03/Flexbox.md)
 
 * [Checkpoint 1:Final Project Content](checkPoints/ProjectContent.md)
 
 * Unit 4
     * [Develop Series 4 - Feelings & Collaborators](DevUnit/Feels)
-    * [D1 Pre-HW - Subject13 + Subject14](Unit04/01DayPrep.md)
-    * [D1 Class - ProjectTitle07](Unit04/01DayClass.md)
-    * [D2 Pre-HW - Subject15 + Subject16](Unit04/02DayPrep.md)
-    * [D2 Class - ProjectTitle08](Unit04/02DayClass.md)
+    * [Lesson 13 - Forms](Unit04/HTMLForms.md)
+    * [Lesson 14 - External Resources](Unit04/ExternalResources.md)
+    * [Lesson 15 - Responsive Sites pt1](Unit04/ResponsivePt1.md)
+    * [Lesson 16 - Responsive Sites pt2](Unit04/ResponsivePt2.md)
 
 * Unit 5
     * [Develop Series 5 - Goals](DevUnit/Goals)
-    * [D1 Pre-HW - Subject17 + Subject18](Unit05/01DayPrep.md)
-    * [D1 Class - ProjectTitle09](Unit05/01DayClass.md)
-    * [D2 Pre-HW - Subject19 + Subject20](Unit05/02DayPrep.md)
-    * [D2 Class - ProjectTitle10](Unit05/02DayClass.md)
+    * [Lesson 17 - Google Fonts](Unit05/GoogleFonts.md)
+    * [Lesson 18 - Animations pt1](Unit05/AnimationsPt1.md)
+    * [Lesson 19 - Animations pt2](Unit05/AnimationsPt2.md)
 
 * [Final Website](checkPoints/FinalWebsite.md)
 

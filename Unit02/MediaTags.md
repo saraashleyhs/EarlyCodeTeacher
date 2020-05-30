@@ -1,12 +1,12 @@
 {% include "../includes/header.md" %}
 
-# Advanced CSS Techniques
+# Pics, Links, and Videos
 
 *****
 
-**Objective:** By the end of this lesson, the student will use W3Schools as a resource to apply additional styles to HTML elements using CSS rules.
+**Objective:** By the end of this lesson, the student will add images, hyperlinks, and videos to a webpage.
 
-**Assignment:** CSS Advanced Practice CodeSandbox
+**Assignment:** Digital Billboard
 
 *****
 
@@ -119,7 +119,7 @@ Be sure to reference the official documentation on [CSS on W3Schools](https://ww
 
 Take a look at these terms. If you don't know or can't describe any of them, take some time to teach yourself. You're a developer, which means you're also learning to develop yourself.
 
-* CSS
+* img tag
 * Declaration
 * Selector
 * Link
@@ -129,6 +129,6 @@ Take a look at these terms. If you don't know or can't describe any of them, tak
 *****
 <!--TODO Include the Cascade-->
 
-### Let's go to the next Lesson [Selectors >](Selectors.md)
+### Let's go to the next Lesson [Pseudo Classes >](BoxModel.md)
 
 {% include "../includes/footer.md" %}

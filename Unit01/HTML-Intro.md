@@ -62,18 +62,23 @@ A basic HTML template looks like the following:
 
   What is the difference between the two?
 
+
   All of the content displayed on the webpage is between the two 
   <body> </body> tags.
   ```
+
+   The opening and closing tags create the container that will hold the content.  Think of the closing tag as the **lid** on the container.
+   <br>
   <img width=400px src="../images/tags.jpg">
+
 
   ### Elements
   When we place content between the two tags, we have created an HTML **element**.
   ```html
   <h1>Content between the opening and closing tag.</h1>
 
-  The whole thing represents an H1 element. 
-  There are lots of other types of elements depending on the tag that is used. 
+  The whole thing represents an H1 element.
+  There are lots of other types of elements depending on the tag that is used.
   They each represent different objects that the browser sees.
   
   ```
