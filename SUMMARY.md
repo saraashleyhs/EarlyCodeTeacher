@@ -42,7 +42,7 @@ TIP: Use this page to navigate your files more easily. -->
 * Unit 4
     * [Develop Series 4 - Feelings & Collaborators](DevUnit/Feels)
     * [Lesson 13 - Forms](Unit04/HTMLForms.md)
-    * [Lesson 14 - External Resources](Unit04/ExternalResources.md)
+    * [Lesson 14 - Linking Pages](Unit04/ExternalResources.md)
     * [Lesson 15 - Responsive Sites pt1](Unit04/ResponsivePt1.md)
     * [Lesson 16 - Responsive Sites pt2](Unit04/ResponsivePt2.md)
 

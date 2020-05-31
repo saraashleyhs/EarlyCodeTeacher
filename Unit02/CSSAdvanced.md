@@ -18,10 +18,11 @@ Remind yourself of the 3 parts of a CSS rule:
  <img style="margin:auto; width:500px" src="../images/css-rule-anatomy.jpg">
 
 
+* For today's activity, we will explore CSS a little deeper into the different properties that we could change about an object.  You will use [W3Schools](https://www.w3schools.com/css/default.asp) to help you complete the assignment.
 
-For today's activity, we will explore CSS a little deeper into the different properties that we could change about an object.  You will use [W3Schools](https://www.w3schools.com/css/default.asp) to help you complete the assignment.
+<br>
 
-> Hint: You may have to use previous lesson material to help you.  Use your resources to complete the assignments.
+ > Hint: You may have to use previous lesson material to help you.  Use your resources to complete the assignments.
 
 *****
 
