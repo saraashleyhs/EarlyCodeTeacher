@@ -2,6 +2,14 @@
 
 # HTML Tables
 
+*****
+
+**Objective:** By the end of this lesson, the student will use HTML Table elements to build an HTML table.  
+
+**Assignment:** Mario and Luigi with HTML Tables
+
+*****
+
 ## Overview Table Elements & `:nth-child()`
 
 Before the days of `grid` and `flex` many developers used `<table>` to position elements on a "grid-like" structure. It was very hacky but it got the job done. Today, `<table>` isn't used as often but it is still a viable way to structure pieces of our page especially if we need to represent something in a table chart. We'll learn to use the `<table>` element and its dedicated child elements as we build our Luigi Character!!
@@ -153,6 +161,7 @@ As you already know, the best place to learn about everything web development - 
 ### Practice It
 
 1. Rebuild the `:nth-child()` example from above in a new CodeSandbox.
+    * Try changing the `n` value to see what happens.
 1. Take a few minutes to explore the [Mario Tables](https://codesandbox.io/s/mario-html-tables-gghjy?fontsize=14&hidenavigation=1&theme=dark) CodeSandbox.  Look at how `colspan` and `rowspan` are being used.  
     * Remember to **Fork**!
     * Create [Luigi](https://cdn.pixabay.com/photo/2016/07/30/21/12/luigi-1558026__340.jpg) Using HTML Tables. Hint: Search for *'Pixelated Luigi'* for some help.
@@ -160,6 +169,7 @@ As you already know, the best place to learn about everything web development - 
         * Make Luigi facing the opposite direction from Mario.
         * Change Luigi's position, maybe running.
         * Use `:nth-child()`
+    >Hint: Get some grid paper and [Wireframe](../Unit01/Wireframing.md) out your Luigi Table.
 
 *****
 
@@ -184,6 +194,8 @@ As you already know, the best place to learn about everything web development - 
 1. What values can you pass into the `()` of the `:nth-child()` selector?
 1. How would you describe the way the `:nth-child()` work to a 5 year old?
 
-### Let's go to the next Lesson [ >](HTMLTables.md)
+*****
+
+### Let's go to the next Lesson [CSS Grid >](CSSGrid.md)
 
 {% include "../includes/footer.md" %}

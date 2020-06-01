@@ -4,9 +4,9 @@
 
 *****
 
-**Objective:** By the end of this lesson, the student will use the box model to adjust the layout .
+**Objective:** By the end of this lesson, the student will use the box model to adjust the layout of a webpage.
 
-**Assignment:** CSS Selectors Practice (Part 2)
+**Assignment:** Image Gallery
 
 *****
 
