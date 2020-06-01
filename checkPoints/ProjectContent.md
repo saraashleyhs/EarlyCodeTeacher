@@ -4,45 +4,35 @@
 
 ## ProjectTitle Overview
 
-We created the structure of our website from the wireframe. Now it's time to fill in the content  
+We created the structure of our website from the wireframe. Now it's time to fill in the content.  
 
 ## Website Content Rubric
 
-<!-- @TODO ATTENTION: DEVELOPER, Every Checkpoint needs a rubric. A checkpoint, after all, is a test of the skills they've learned or haven't. Be sure to specify the specifications of this project and assign them point values that equal 100 points.  -->
-
 1. **40pts** - Brainstorm Questions answered
+    * These questions are located in the `Brainstorm.md` file.  Treat this file like any word document.
 1. **20pts** - Heading/Nav Content
+    * The heading and navigation elements should have titles that are relevant to your project.
+  
 1. **20pts** - Main Content
+    * The content of the page should contain images, text, hyperlinks.
+    * The content should be related to the purpose of your website.
+    * You may add on to or modify the content after this project.
 1. **20pts** - Wireframe Structure
-1. **Bonus +20pts** - Styles/Images Added (at Teacher Discretion)
+    * This should have been completed during the wireframing lesson.  
+    * Make sure that your HTML structure follows the [Figma Wireframe](https://www.figma.com/file/3sYpjzrB7zRV9dmHP7sW6r/my-site?node-id=0%3A1).
+1. **Bonus +20pts** - Styles/Images Added
+    * You may add any styles based on the topics we have covered so far.
+    * Points will be awarded at Instructor Discretion
 
 ### Website Content Objective
 
 <!-- @TODO ATTENTION: DEVELOPER, Just like the overview in the pre-homework and class lesson we want to give the students context for what they'll be practicing in this project. -->
+At this point, we have learned quite a bit about HTML and CSS.  Our goal by the end of this course is that you will have your own website.  
 
-### Website Content Example
+* You have already made a copy of your Final Project during our Wireframing lesson.  
+  * [CodeSandbox](https://codesandbox.io/s/l2c-course-student-template-w8ojh?fontsize=14&hidenavigation=1&theme=dark)
 
-<!-- @TODO ATTENTION: DEVELOPER, A picture, mock-up, gif demo, or website the show what the students are working toward. The point is, you have experience in building apps like this and you know where they're headed. It would be more helpful if they, too, knew where they are headed. This will give the students something to reverse engineer or setup a goal post to reach. -->
 
-<!-- EXAMPLE of ProjectTitle Example
- * [Trello](https://trello.com) -->
-
-- [EXAMPLETITLE](url)
-
----
-
-### Follow-up Video - ProjectTitle
-
-<!-- @TODO ATTENTION: DEVELOPER, This section is intended to get the students started more quickly, clarify confusion, and push them further.
-
-1) It must be created by the ACA/Circle Education.
-2) Don't give them answers but provide hints and any specific instruction that need to be followed. -->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nbFmHD4T04k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- @TODO ^^^ THIS PLACEHOLDER VIDEO BELOW BETTER BE REPLACED!!!!! ^^^ -->
-
----
 
 ---
 

@@ -153,8 +153,17 @@ Again, I cannot over-emphasize this, [read your docs](https://www.w3schools.com/
     1. Change the `order` of your gifs.
     1. Can you `-grow` or `-shrink` your gifs?
 
-******
-******
+*****
+
+## Building Flex with Online Tools
+
+The following resources will give you the code for your Flex elements.  You still need to understand the properties of Flexbox to be able to generate what your website needs.  
+
+* [MyCSSBuilder](https://www.mycssbuilder.com/)
+* [Loading.io Flexbox Generator](https://loading.io/flexbox/)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/?fixed-height=on&display=flex&flex-direction=column&flex-wrap=wrap&justify-content=flex-end&align-items=flex-start&align-content=stretch&order%5B%5D=0&flex-grow%5B%5D=0&flex-shrink%5B%5D=1&flex-basis%5B%5D=auto&align-self%5B%5D=auto&order%5B%5D=0&flex-grow%5B%5D=0&flex-shrink%5B%5D=1&flex-basis%5B%5D=auto&align-self%5B%5D=auto&order%5B%5D=0&flex-grow%5B%5D=0&flex-shrink%5B%5D=1&flex-basis%5B%5D=auto&align-self%5B%5D=auto)
+
+*****
 
 ### Terms To Know
 
