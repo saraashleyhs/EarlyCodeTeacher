@@ -6,7 +6,7 @@
 
 **Objective:** By the end of this lesson, the student will create and style an HTML form.
 
-**Assignment:** 
+**Assignment:** NASA Page Practice
 
 *****
 
@@ -151,24 +151,68 @@ This can be used for an "Additional Comments" section.
 * `<output>`: of course, shows you the output of some script you've built.
 * `<select>`: offers a dropdown menu to your user.
 
+*****
+
+## Button Element
+
+As you learned earlier, `input` elements can be changed to accept all sorts of data including *buttons* by changing the value of their `type=` attribute. Here well cover the actual `<button>` element because the real reason to use it over a `<input type="button">` element is for styling.
+
+If you're wanting to put content or images inside of a button then you'll have to use the `<button></button>` element. Plain and simple, that is it!
+
+However, if you want to use a `<button>` element on a form you have to set its `type=` attribute to `"submit"`: `type="submit"` and *poof*, you have a submission button.
+
 The last things we'll say about HTML Form Elements is that they can all be [styled just like your other HTML Elements](https://www.youtube.com/watch?v=2ACrHs5o9LM). Have fun, let your creativity run wild, and enjoy building!!
 
 ******
+
+## Practice It
+
+Try working with this [Example Form CodeSandbox](https://codesandbox.io/s/forms-example-qf090?fontsize=14&hidenavigation=1&theme=dark).
+* Explore some of the elements that have been explained in this lesson.
+
+ <iframe
+     src="https://codesandbox.io/embed/forms-example-qf090?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Forms Example"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-autoplay allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
+
+#### Assignment
+
+### Wireframe the [NASA Web Page](../images/homework.jpg) - 15 mins
+
+Using the [NASA Mockup](../images/homework.jpg), the instructor will lead a whiteboarding session teaching students how to wireframe so that students understand the importance and usefulness of planning before coding.
+
+![NASA Mockup](../images/homework.jpg)
+
+******
+
+### Build the NASA Page
+
+This project will bring together several topics that we have learned so far.  You will use Flexbox or Grid, adding images, the Box Model, etc. to complete this assignment.
+**Fork** the [NASA CodeSandbox](https://codesandbox.io/embed/floral-sunset-e9hpi?fontsize=14&hidenavigation=1&theme=dark)
+
+1. Draw a wireframe with HTML tags denoting each element
+1. Using `display: flex;` and the Box Model, follow the mock-up below to build the NASA landing page.
+1. Use [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) to get the right colors.
+1. Use a `<form>` and `<input>` elements to create the form in the mockup.
+
+*****  
 
 ## Know Your Docs
 
 * [HTML Form Elements](https://www.w3schools.com/html/html_forms.asp)
 * [Input Attributes](https://www.w3schools.com/html/html_form_attributes.asp)
 * [Styling Form Elements](https://www.w3schools.com/css/css_form.asp)
-
-## Practice It
-
-You have two projects to do in class tomorrow. Go ahead and start on one of them tonight. If you want something more to work with try fiddling with this [Example Form CodePen](https://codepen.io/austincoding/pen/awBGPx/).
+* [Why use `<button>` over `<input type="button">`](https://www.geeksforgeeks.org/button-tag-vs-input-typebutton-attribute/)?
 
 ### Suggested Viewing
 
 * [HTML Form Elements in 25 mins](https://www.youtube.com/watch?v=fNcJuPIZ2WE)
 * [HTML5 Form Validation](https://www.youtube.com/watch?v=bb4NqVycr-4)
+
+*****
 
 ## Terms to Know
 
@@ -176,16 +220,20 @@ You have two projects to do in class tomorrow. Go ahead and start on one of them
 * Form Validation
 * Data Validation
 * Client-side Validation
+* `<button>` Element
+
+*****
 
 ## Questions for Student Discussion
 
-1. Next class you'll be building a Contact Me Page. Look ahead to see the specifications for it and wireframe it tonight.
 1. What makes the `form` element special? How does it store data?
 1. Can you describe the way the `input` attribute: `name` creates a place for data to be stored on the `form` element-*object-thing*?
 1. What is a property? How is it similar to an attribute?
 1. Why do we need to validate our data?
 1. What does the `<br>` element do?
 1. What is an inline element?
+
+*****
 
 ### Let's go to the next Lesson [Linking Pages >](ExternalResources.md)
 
