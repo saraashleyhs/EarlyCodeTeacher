@@ -7,6 +7,7 @@ TIP: Use this page to navigate your files more easily. -->
 * [Home](home.md)
     * [Resources](preCourseWork/Resources.md)
 
+
 * Pre-Course 
     * [Step 1 Preparing Your Machine](preCourseWork/prepareYourMachine-Prep.md)
     * [Step 2 Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
@@ -16,14 +17,15 @@ TIP: Use this page to navigate your files more easily. -->
 
 
 * Unit 1
-    * [Develop Series 1 - Mindfulness](DevUnit/Mindfulness)
+    * [Develop Series 1 - Mindfulness](./DevUnit/Mindfulness.md)
     * [Lesson 1 - Computer/Internet Basics](./Unit01/Computer.md)
     * [Lesson 2 - Intro to HMTL](./Unit01/HTML-Intro.md)
     * [Lesson 3 - Intro to CSS](Unit01/CSS-Intro.md)
     * [Lesson 4 - Wireframing](Unit01/Wireframing.md)
 
- * Unit 2
-    * [Develop Series 2 - Self Motivation](DevUnit/SelfMotivation)
+
+* Unit 2
+    * [Develop Series 2 - Self Motivation](./DevUnit/SelfMotivation.md)
     * [Lesson 5 - CSS Advanced Practice](Unit02/CSSAdvanced.md)
     * [Lesson 6 - Selectors](Unit02/Selectors.md)
     * [Lesson 7 - Pics, Links, and Vids](Unit02/MediaTags.md)
@@ -31,26 +33,32 @@ TIP: Use this page to navigate your files more easily. -->
 
 
  * Unit 3
-    * [Develop Series 3 - Brain Building](DevUnit/BrainBuilding)
+    * [Develop Series 3 - Brain Building](./DevUnit/BrainBuilding.md)
     * [Lesson 9 - Box Model](Unit03/BoxModel.md)
     * [Lesson 10 - HTML Tables](Unit03/HTMLTables.md)
     * [Lesson 11 - CSS Grid](Unit03/CSSGrid.md)
     * [Lesson 12 - Flexbox](Unit03/Flexbox.md)
 
+
 * [Checkpoint 1:Final Project Content](checkPoints/ProjectContent.md)
 
+
 * Unit 4
-    * [Develop Series 4 - Feelings & Collaborators](DevUnit/Feels)
+    * [Develop Series 4 - Feelings & Collaborators](./DevUnit/Feels.md)
     * [Lesson 13 - Forms](Unit04/HTMLForms.md)
     * [Lesson 14 - Linking Pages](Unit04/ExternalResources.md)
-    * [Lesson 15 - Responsive Sites pt1](Unit04/ResponsivePt1.md)
-    * [Lesson 16 - Responsive Sites pt2](Unit04/ResponsivePt2.md)
+    * [Lesson 15 - Animations pt1](Unit04/AnimationsPt1.md)
+    * [Lesson 16 - Animations pt2](Unit04/AnimationsPt2.md)
+
+
 
 * Unit 5
-    * [Develop Series 5 - Goals](DevUnit/Goals)
+    * [Develop Series 5 - Goals](./DevUnit/Goals.md)
     * [Lesson 17 - Google Fonts](Unit05/GoogleFonts.md)
-    * [Lesson 18 - Animations pt1](Unit05/AnimationsPt1.md)
-    * [Lesson 19 - Animations pt2](Unit05/AnimationsPt2.md)
+    * [Lesson 18 - Responsive Sites pt1](Unit05/ResponsivePt1.md)
+    * [Lesson 19 - Responsive Sites pt2](Unit05/ResponsivePt2.md)
+
+
 
 * [Final Website](checkPoints/FinalWebsite.md)
 
