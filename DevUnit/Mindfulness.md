@@ -34,7 +34,7 @@ No matter what your practice looks like, you will see huge benefits in your rela
 
 1. What does mindfulness mean to you?
 1. Can you practice outside of meditation? How? Where? When?
-1. How do you think your classroom would change if you and everyone there embraced mindful living and communication?
+1. How do you think your classroom would change if you and everyone in class embraced mindful living and communication?
 1. How do you think you would change if you brought in this practice?
 
 *****
