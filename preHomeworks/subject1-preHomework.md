@@ -43,7 +43,7 @@ Every new concept should be laid out, we need to do ... therefore we will need t
 
 <!-- @TODO ATTENTION: DEVELOPER, Give them something to read in your words, as if you were talking to them about the topic. Within the reading you can link to a few articles: Medium, Wikipedia, Microsoft, CSS-Tricks, W3S, MozillaDev, etc... anything that can help give more perspective on the subject.  -->
 
-Let's say you need to .... but you're not able to get ...., luckily for us older developers have come across this problem to and created a solution. With this solution we can ... and then ... . After you implement this solution you're app can ... . Make sure to tell a story. Our students don't understand programming yet, that's why they're here. They need to be told a story like a human being.
+Let's say you need to .... but you're not able to get ...., luckily for us older developers have come across this problem to and created a solution. With this solution we can ... and then ... . After you implement this solution your app can ... . Make sure to tell a story. Our students don't understand programming yet, that's why they're here. They need to be told a story like a human being.
 <!-- @TODO ^^^ Replace Example Text ^^^ -->
 
 ******
@@ -96,7 +96,7 @@ Every new concept should be laid out, we need to do ... therefore we will need t
 
 <!-- @TODO ATTENTION: DEVELOPER, Give them something to read in your words, as if you were talking to them about the topic. Within the reading you can link to a few articles: Medium, Wikipedia, Microsoft, CSS-Tricks, W3S, MozillaDev, etc... anything that can help give more perspective on the subject.  -->
 
-Let's say you need to .... but you're not able to get ...., luckily for us older developers have come across this problem to and created a solution. With this solution we can ... and then ... . After you implement this solution you're app can ... . Make sure to tell a story. Our students don't understand programming yet, that's why they're here. They need to be told a story like a human being.
+Let's say you need to .... but you're not able to get ...., luckily for us older developers have come across this problem to and created a solution. With this solution we can ... and then ... . After you implement this solution your app can ... . Make sure to tell a story. Our students don't understand programming yet, that's why they're here. They need to be told a story like a human being.
 <!-- @TODO ^^^ Replace Example Text ^^^ -->
 
 ******
@@ -155,7 +155,7 @@ Take a look at these terms. If you don't know or can't describe any of them, tak
 
 ## Daily Puzzle Practice
 
-In class we'll work on solving problems while communicating to a group. To get better at this, (*and you will*), you'll have to practice on you're own everyday. YES, the first few times you work on this you're going to get stuck, frustrated, and want to give up. That's okay. Just take a breathe and take some time away from it. Ten minutes later, come back to it. Then look at the answer. Understand how it was solved and try to repeat it for yourself. In this way you can learn from **REALLY** smart people. Slowly, but surely, you will pick up the patterns.
+In class we'll work on solving problems while communicating to a group. To get better at this, (*and you will*), you'll have to practice on your own everyday. YES, the first few times you work on this you're going to get stuck, frustrated, and want to give up. That's okay. Just take a breathe and take some time away from it. Ten minutes later, come back to it. Then look at the answer. Understand how it was solved and try to repeat it for yourself. In this way you can learn from **REALLY** smart people. Slowly, but surely, you will pick up the patterns.
 
 We want you to succeed! To make sure our students are doing the right practice, **everyday**, for themselves we're going to give you a problem to work on here. But if you're wanting more to work on try these sites:
 
