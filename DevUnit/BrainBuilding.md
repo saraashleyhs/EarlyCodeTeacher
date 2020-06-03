@@ -8,7 +8,7 @@ As we've stated before, this program isn't just about creating a web developer [
 
 In the first week we learned how to practice mindfulness and how it trains you to focus your thoughts, energy, and emotions toward what you want when you want it. Last last week we learned about self-motivation and what it means to tie yourself to what you're doing and do it for you and not for others.
 
-This week we'll look a how all the "*regular*" and "*normal*" habits we do are actually tearing away at our creative abilities and our chance at conscious happiness and purpose but how we can accept change in our life to improve our heath in all of our realms: physical, mental, and spiritual. Let's get to work.
+This week we'll look at how all the "*regular*" and "*normal*" habits we do are actually tearing away at our creative abilities and our chance at conscious happiness and purpose but how we can accept change in our life to improve our heath in all of our realms: physical, mental, and spiritual. Let's get to work.
 
 ### Brain Building
 
