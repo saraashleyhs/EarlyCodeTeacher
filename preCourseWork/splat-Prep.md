@@ -10,7 +10,7 @@ You must own your learning, your growth, and your curiosity. To help you do this
 
 S.A.T. is an acronym for our style of passing on, maintaining, and growing in-house knowledge in our Early Code family, which also contributes to our online and in-class community and culture: make yourself better everyday, while making others around you better!
 
-It work like this:
+It works like this:
 
 If you have a question, you should immediately ask yourself: “Is it in my textbook?"
 
