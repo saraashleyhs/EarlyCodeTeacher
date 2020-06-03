@@ -57,7 +57,7 @@ Today's Presentations:
 
 *Look, you have to solve the riddle, then you get the job. When you get the job you don't have to solve riddles anymore." - Jon*
 
-The truth of it is that when we develop software, **most** of the work is planning, collaborating, and tasking out duties. Only a small percentage of time is spent actually coding! A lot of that planning is on the whiteboard because it's easy to erase and everyone can have a marker. If you're smart you'll plan you're in-class projects with a whiteboard and a team. And if you're really planning to be a web developer you'll need to get good with communicating your ideas on the board to a team!
+The truth of it is that when we develop software, **most** of the work is planning, collaborating, and tasking out duties. Only a small percentage of time is spent actually coding! A lot of that planning is on the whiteboard because it's easy to erase and everyone can have a marker. If you're smart you'll plan your in-class projects with a whiteboard and a team. And if you're really planning to be a web developer you'll need to get good with communicating your ideas on the board to a team!
 
 To do this we'll call one student at random each day of class and they will work with the instructor on how to solve the problem/puzzle out. The rest of the class will watch attentively and try to work it out for themselves on their notebook. Follow the steps below and you won't fail **ANY** interview.
 
