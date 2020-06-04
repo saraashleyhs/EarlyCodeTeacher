@@ -14,98 +14,128 @@
 
 ## Transitions
 
-  
+When we want to simulate movement on our webpage, we can use transitions and transformations to do this.  This is very similar to animations but we can customize and use multiple transition properties.A transition allows us to make those movements smooth and pleasing to the user's eyes.  Jerky and sharp movements can distract the user and take away from the User Experience(UX) design of the page.  For an introduction into what a transition looks like, watch the video below.
 
-The introduction of [Animate.css](https://animate.style/) is more of an introduction to a concept you'll be using throughout your coding journey, **open-source code**. Open-source means that is is open to public use and contribution. Within the JavaScript ecosystem, there have been over 350,000 code bases built for the use of anyone that wants to use them. So what does it mean to use other people's code? It means that you get do really cool things without having to do build the code yourself.  
-
-I'm sure you're wondering how Animate.css comes into play with this **open-source** ecosystem. Turns out that animations, or movements on the page, are commonly used. Instead of re-building these animations from scratch, we can use the code built by Dan Eden!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nloq6uzF8RQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *****
 
-### Animate.css
+### Creating a Transition
 
-The code for [Animate.css](https://github.com/daneden/animate.css) is held in online storage, just like all of your projects. Notice that the name has a `.css` file extension in it. This is because, it's **all CSS**!
+In the video you were able to see some of those properties in action, now let's see how to code it ourselves.
 
-You use it just like you use your own `.css` files, with a `<link rel="stylesheet" href="">` tag, but instead of `style.css` value in the `href=""` attribute you'll do this instead:
+In order to create a transition, you have to think about your starting state and ending state.  You also have to think about the specific CSS property that will be transitioning.  For example, if we wanted to change the size of the object, we would consider transitioning the width and the height.  
 
-Because the source is online, we have to reference the url where it is found.
->***Remember**: the `<link>` tag is placed in `<head>` of the HTML file.*
+The following code represents a transition on a `div` element.
 
-| HTML for CDN Method to use Animate.css|
+|  CSS  |
 |----|
 
-```html
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
-</head>
-<!-- This method requires an internet connection to work, even locally. -->
+```css
+div {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  transition: width 2s;
+}
 ```
 
-> ***NOTE** There is an updated version of Animate.css.  We are using an older version. Don't read the instructions on the Animate.css webpage. They are for the newer version that we aren't using, but the types of animations are the same.*  
-*****
+This tells the browser that we will have a 2 second transition on the width.  But, it's missing something. The code block above only tells where the width value will begin.  We also have to specify the ending value.  So we need some more code.
 
-### Using Animate.css
-
-Explore [Animate.css](https://animate.style/).  Use the right-hand navigation bar to test out the different animations.
-
-The way to use **Animate.css** is to use the built-in class names. **Remember using classes?**  Each animation has a dedicated class name. Along with that, there is a specific syntax to writing the classes.  
-
->Add the class `animated` to an element, along with any of the animation names:
-
-| Syntax for using Animate.css|
-|----|
-```html
-<h1 class="animated bounce">An animated element</h1>
- 
+```css
+div:hover {
+  width: 300px;
+}
 ```
 
-*This means this h1 element will 'bounce' when the page loads*
+The transition will happen when the `div` element is hovered over.  The width started at `100px` and after 2 seconds will have a width of `300px`.
 
-You need the `animated` class for each element you add an animation to.  You get to choose the animation name.
+> *Note: You can change more than one property at a time by listing the properties using the transition CSS property.
+```css
+div {
+  transition: width 2s, height 4s;
+}
+```
+
+Almost all CSS properties can have a transition, however, there are some properties that cannot use the transition property, such as font. 
 
 *****
 
-### Timing and Repeats
+### Transition Properties - [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
-Watch the video below for an introduction to how we customize our animations.  
+Just like with Animate.css, there are some properties that can be adjusted to customize your transition.
 
-<iframe width="560" height="315" style="margin-bottom:25px;" src="https://www.youtube.com/embed/2a2p2FhBgfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [**Transtion Property**](https://www.w3schools.com/cssref/css3_pr_transition-property.asp)
+    * `transition-property` is used to specify the name of the CSS property that the transition will apply to.
+
+```css
+    div {
+      transition-property: width, height;
+    }
+
+    div:hover {
+      width: 300px;
+      height: 300px;
+    }
+```
+
+Notice how there are 2 properties that will be transitioning.
+
+#### Once you have specificed the properties that will be changing, you could adjust the timing of the transition.
+
+* [**Transition Delay**](https://www.w3schools.com/cssref/css3_pr_transition-delay.asp)
+    * All animations/transitions automatically begin as soon as the page loads, unless you specify a delay.
+    * Can be written in milliseconds or seconds.
+
+```css
+    div {
+      transition-delay: 200ms;
+    }
+```
+
+Remember there are `1000ms` in `1s`.
+
+* [**Transition Duration**](https://www.w3schools.com/cssref/css3_pr_transition-duration.asp)
+    * This property specifcies how long the transition will last.
+    * Can be written in milliseconds or seconds.
+
+```css
+    div {
+      transition-duration: 350ms;
+    }
+```
+
+* [**Transition Timing Function**](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
+    * This property allows you to customize the speed throughout the transition.
+    * There are different types of timing functions and at a higher level, you would learn how to define your own.
+
+```css
+    div {
+      transition-timing-function: ease-in;
+    }
+```
+
+>**Built-in timing functions:** 
+    >* `linear`
+    >* `ease`
+    >* `ease-in`
+    >* `ease-in-out`
+    >* `ease-out`
 
 <br>
 
-Notice in the video that there some properties that can be adjusted to customize your animation.
+![Examples](../images/Timing_Functions_Demo.gif)
 
-* **Delay Class**
-    * Using the `delay` class will delay the animation until the specified time has passed.
+*****
 
-        |  Class Name  |  Duration |
-        |:-:|---|
-        | `delay-2s`  |  2s |
-        | `delay-3s`  |  3s |
-        | `delay-4s`  |  4s |
-        | `delay-5s`  |  5s |
-
-* **Speed Class**
-    * Using the `speed` class will delay the animation until the specified time has passed.
-
-        |  Class Name  |  Duration |
-        |:-:|---|
-        | `slow`  |  2s |
-        | `slower`  |  3s |
-        | `fast`  |  800ms |
-        | `faster`  |  500ms |
-
-* **CSS Properties**
-    * `animation-duration` : The amount ofntime it takes for the animation to complete.  This can slow the animation down.
-    * `animation-delay` : The amount of time before the animation will execute on the webpage.
-    * `animation-iteration-count` : The number of times that the animation will repeat.  
+## Transformations
 
 *****
 
 ### Practice It - [Boxes Practice](URLtoEXAMPLE1)
 
 * The goal of this assignment will be to animate the boxes.
-* Remember to **Fork!**
+* Remember to **Fork!** 
 <iframe
      src="https://codesandbox.io/embed/animated-boxes-57xk2?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
@@ -118,31 +148,35 @@ Notice in the video that there some properties that can be adjusted to customize
 
 ### Know Your Docs - 
 
- 
-* [W3Schools Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 * [CSS Transitions/Transforms](https://thoughtbot.com/blog/transitions-and-transforms)
+* [W3Schools Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+* [Transition Timing Function](https://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp)
+* [W3Schools Transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+* [3D Transforms](https://www.w3schools.com/css/css3_3dtransforms.asp)
+
 
 *****
 
 ### Push yourself further
 
-* Animate the Practice Landing Page from the last lesson.
-* Add animations to your Final Project webpage.
-* Try updating your version to the newer version.  
-    * There are more animations to use.
-    * Be careful!  The syntax is different.
+* Add transitions and transformations to your Final Project webpage.
+* Add 3D transformations to your webpage.
+* Research how to create your own animations using `@keyframes`
 
 *****
 
 ### Terms to Know
 
-* Open-Source
-* `<link>`
-* Class 
-* `href` attribute
-* Timing Functions
-* Animation
-* milliseconds
+* Transition
+* `transition-delay`
+* `transition-duration`
+* `transition-property`
+* `transition-timing-function`
+* `transform`
+* `translate`
+* `scale`
+* `rotate`
 
 *****
 

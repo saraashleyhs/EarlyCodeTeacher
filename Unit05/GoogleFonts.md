@@ -16,8 +16,6 @@ You have noticed that we don't have many options when it comes to select a font,
 
 <iframe src="https://giphy.com/embed/RLnTZP8hbEGBgwkaZg" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-
-
 **Once you have found the font that you would like to use:** 
     Find the link to EMBED
 
