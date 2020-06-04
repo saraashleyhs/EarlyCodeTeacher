@@ -6,7 +6,7 @@
 
 **Objective:** By the end of this lesson, the student use transitions and transformations to add dynamic styles to a webpage.
 
-**Assignment:** Boxes Animation Part 2
+**Assignment:** Add Google Fonts to Your Final Project
 
 *****
 
@@ -14,17 +14,14 @@
 
 You have noticed that we don't have many options when it comes to select a font, we pretty much have the [CSS Web Safe Font](http://www.w3schools.com/cssref/css_websafe_fonts.asp) for us to work with and to be honest it is very limited. We can increase our font options used on a webpage using Google Fonts. Just visit [Google font](https://www.google.com/fonts) website and check all the available font they have in the library.
 
-![Google Fonts](../images/08/google-fonts.jpg)
+<iframe src="https://giphy.com/embed/RLnTZP8hbEGBgwkaZg" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Once you have added to the collection the font you want to use, click on the `use` button at the bottom of the page to choose the style you want
 
-![Add to Collection](../images/08/google-font.gif)
 
-> Dont go over yellow or red on the `Page Load-meter`. If you are adding too many styles there is something wrong with the design of the website.
+**Once you have found the font that you would like to use:** 
+    Find the link to EMBED
 
-Now, go down to step 3 and copy the link given to you.
-
-![Copy link](../images/08/google-fonts-link.gif)
+<iframe src="https://giphy.com/embed/gLov7XkYDhOToCtsbZ" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 That link you just copied goes on your HTML page. It needs to go before the CSS file is going to utilize that font.
 
@@ -60,21 +57,6 @@ h3 {
 }
 ```
 
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Awesome website</title>
-        <!-- Remove some style given by the user agent -->
-        <link rel='stylesheet' href='css/css-reset.css'>
-        <!-- CSS file that contains your style -->
-        <link rel='stylesheet' href='css/my-style.css'>
-    </head>
-    <body>
-        <!-- HTML Elements-->
-    </body>
-</html>
-```
 *****
 
 ### See It
@@ -88,7 +70,6 @@ h3 {
 ### Practice It
 
 * Choose a couple of fonts that you would like to use in your final project and add them to your Final Project.
-
 
 *****
 
