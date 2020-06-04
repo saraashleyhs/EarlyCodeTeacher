@@ -1,6 +1,6 @@
 {% include "../includes/header.md" %}
 
-# Linking Pages 
+# Linking Pages
 
 *****
 
@@ -75,6 +75,8 @@ The goal is to create a navigation bar with nested anchor tags.
 1. The files are all created.  Your job is to link them together.
 1. Follow the instructions in the CodeSandbox.
 
+*****
+
 ## Know Your Docs
 
 * [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
@@ -95,7 +97,7 @@ The goal is to create a navigation bar with nested anchor tags.
 
 ## Questions for Student Discussion
 
-1. How do you know when to use `./` or `../` when getting a file path?
+1. How do you know when to use `./` or `../` when writing a file path?
 1. What does an anchor tag do?
 1. How many pages could you link together
 

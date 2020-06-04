@@ -178,9 +178,12 @@ Try working with this [Example Form CodeSandbox](https://codesandbox.io/s/forms-
      sandbox="allow-autoplay allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
 
-#### Assignment
+*****
 
-### Wireframe the [NASA Web Page](../images/homework.jpg) - 15 mins
+### Assignment
+
+#### Wireframe the [NASA Web Page](../images/homework.jpg) - 15 mins  
+Wireframe the mockup given below.  Make sure to identify HTML elements that would be coded.
 
 Using the [NASA Mockup](../images/homework.jpg), the instructor will lead a whiteboarding session teaching students how to wireframe so that students understand the importance and usefulness of planning before coding.
 

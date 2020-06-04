@@ -7,14 +7,12 @@ TIP: Use this page to navigate your files more easily. -->
 * [Home](home.md)
     * [Resources](preCourseWork/Resources.md)
 
-
 * Pre-Course 
     * [Step 1 Preparing Your Machine](preCourseWork/prepareYourMachine-Prep.md)
     * [Step 2 Code Sandboxes](preCourseWork/codeSandBoxes-Prep.md)
     * [Step 3 Get to Know CodeSandbox.io](preCourseWork/GettingCodeSandbox.md)
     * [Step 4 S.A.T.](preCourseWork/splat-Prep.md)
     * [Step 5 Pre-Course Checklist](preCourseWork/preCourseChecklist.md)
-
 
 * Unit 1
     * [Develop Series 1 - Mindfulness](./DevUnit/Mindfulness.md)
@@ -23,7 +21,6 @@ TIP: Use this page to navigate your files more easily. -->
     * [Lesson 3 - Intro to CSS](Unit01/CSS-Intro.md)
     * [Lesson 4 - Wireframing](Unit01/Wireframing.md)
 
-
 * Unit 2
     * [Develop Series 2 - Self Motivation](./DevUnit/SelfMotivation.md)
     * [Lesson 5 - CSS Advanced Practice](Unit02/CSSAdvanced.md)
@@ -31,6 +28,7 @@ TIP: Use this page to navigate your files more easily. -->
     * [Lesson 7 - Pics, Links, and Vids](Unit02/MediaTags.md)
     * [Lesson 8 - Pseudo Classes](Unit02/PseudoClass.md)
 
+* [Checkpoint 1:Final Project Content](checkPoints/ProjectContent.md)
 
  * Unit 3
     * [Develop Series 3 - Brain Building](./DevUnit/BrainBuilding.md)
@@ -39,18 +37,12 @@ TIP: Use this page to navigate your files more easily. -->
     * [Lesson 11 - CSS Grid](Unit03/CSSGrid.md)
     * [Lesson 12 - Flexbox](Unit03/Flexbox.md)
 
-
-* [Checkpoint 1:Final Project Content](checkPoints/ProjectContent.md)
-
-
 * Unit 4
     * [Develop Series 4 - Feelings & Collaborators](./DevUnit/Feels.md)
     * [Lesson 13 - Forms](Unit04/HTMLForms.md)
     * [Lesson 14 - Linking Pages](Unit04/ExternalResources.md)
     * [Lesson 15 - Animations pt1](Unit04/AnimationsPt1.md)
     * [Lesson 16 - Animations pt2](Unit04/AnimationsPt2.md)
-
-
 
 * Unit 5
     * [Develop Series 5 - Goals](./DevUnit/Goals.md)
