@@ -6,15 +6,15 @@
 
 *****
 
-**Objective:** By the end of this lesson, the student will use animate.css to add dynamic styling to a webpage.
+**Objective:** By the end of this lesson, the student use transitions and transformations to add dynamic styles to a webpage.
 
 **Assignment:** Boxes Animation Part 2
 
 *****
 
-### Someone else's Code?
+## Transitions
 
-We are building a community of learners and web developers.  We have collaborated on assignments, answered each others questions, and helped each other with our struggles.  In the Web Development industry, the community is just as vital to growing a project or breeding innovation. There are a lot of coders out there who build resources for other people to use.  We are going to use one of those resources today to animate our webpages.  
+  
 
 The introduction of [Animate.css](https://animate.style/) is more of an introduction to a concept you'll be using throughout your coding journey, **open-source code**. Open-source means that is is open to public use and contribution. Within the JavaScript ecosystem, there have been over 350,000 code bases built for the use of anyone that wants to use them. So what does it mean to use other people's code? It means that you get do really cool things without having to do build the code yourself.  
 
@@ -118,9 +118,9 @@ Notice in the video that there some properties that can be adjusted to customize
 
 ### Know Your Docs - 
 
-Read through the [Animate.css](https://github.com/animate-css/animate.css/tree/a8d92e585b1b302f7749809c3308d5e381f9cb17) documentation.  Learning to read and understand documentation is a valuable skill for a developer.  This will be something that you will better and better at as you keep learning.  
-
-* Pay attention to the [Best Practices](https://animate.style/#best) section.
+ 
+* [W3Schools Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+* [CSS Transitions/Transforms](https://thoughtbot.com/blog/transitions-and-transforms)
 
 *****
 
