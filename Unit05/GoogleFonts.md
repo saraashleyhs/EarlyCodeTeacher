@@ -71,4 +71,4 @@ h3 {
 
 *****
 
-{% include "./footer.md" %}
+{% include "../includes/footer.md" %}
