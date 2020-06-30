@@ -34,46 +34,6 @@
 1. ...
 1. ...
 
-## List of Whiteboarding Challenges
-
-### Pre-Homework Whiteboarding Challenges
-
-1. [Lesson 1](01Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 2](01Week/02DayPrep.md) - [prompt](url)
-1. [Lesson 3](02Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 4](02Week/02DayPrep.md) - [prompt](url)
-1. [Lesson 5](03Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 6](03Week/02DayPrep.md) - [prompt](url)
-1. [Lesson 7](04Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 8](04Week/02DayPrep.md) - [prompt](url)
-1. [Lesson 9](05Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 10](05Week/02DayPrep.md) - [prompt](url)
-1. [Lesson 11](06Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 12](06Week/02DayPrep.md) - [prompt](url)
-1. [Lesson 13](07Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 14](07Week/02DayPrep.md) - [prompt](url)
-1. [Lesson 15](08Week/01DayPrep.md) - [prompt](url)
-1. [Lesson 16](08Week/02DayPrep.md) - [prompt](url)
-
-### Class Whiteboarding Challenges
-
-1. [Project 1](01Week/01DayClass.md) - [prompt](url)
-2. [Project 2](01Week/02DayClass.md) - [prompt](url)
-3. [Project 3](02Week/01DayClass.md) - [prompt](url)
-4. [Project 4](02Week/02DayClass.md) - [prompt](url)
-5. [Project 5](03Week/01DayClass.md) - [prompt](url)
-6. [Project 6](03Week/02DayClass.md) - [prompt](url)
-7. [Project 7](04Week/01DayClass.md) - [prompt](url)
-8. [Project 8](04Week/02DayClass.md) - [prompt](url)
-9. [Project 9](05Week/01DayClass.md) - [prompt](url)
-10. [Project 10](05Week/02DayClass.md) - [prompt](url)
-11. [Project 11](06Week/01DayClass.md) - [prompt](url)
-12. [Project 12](06Week/02DayClass.md) - [prompt](url)
-13. [Project 13](07Week/01DayClass.md) - [prompt](url)
-14. [Project 14](07Week/02DayClass.md) - [prompt](url)
-15. [Project 15](08Week/01DayClass.md) - [prompt](url)
-16. [Project 16](08Week/02DayClass.md) - [prompt](url)
-
 <!--  SKIP THIS SECTION 
 Don't worry about this sections. It's for a future update that is not ready yet. Please continue reading and using all comments titled: "@TODO ATTENTION: DEVELOPER," Enjoy!!
 
